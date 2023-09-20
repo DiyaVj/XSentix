@@ -26,6 +26,10 @@ XSentimentAnalyzer is a powerful sentiment analysis and content recommendation s
 - If sensitive information is detected, notifications will be sent to designated contacts or well-wishers.
 - Explore the interactive dashboard to gain insights through visually appealing graphs and charts.
 
+## Design
+
+[Figma File](https://www.figma.com/file/gyd0VdgcAi0zgmU5XZWbh3/XSentimentAnalyzer?type=design&node-id=0%3A1&mode=design&t=KyW1008PTVBav3jA-1)
+
 ## Contributors 
 - [Ashish Meena]()
 - [Deepak Goyal]()
