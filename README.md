@@ -1,4 +1,4 @@
-# XSentimentAnalyzer
+# XSentix
 
 ## Overview
 
