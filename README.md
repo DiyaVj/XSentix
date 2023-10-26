@@ -26,9 +26,37 @@ XSentimentAnalyzer is a powerful sentiment analysis and content recommendation s
 - If sensitive information is detected, notifications will be sent to designated contacts or well-wishers.
 - Explore the interactive dashboard to gain insights through visually appealing graphs and charts.
 
-## Design
+## Getting Started
 
-[Figma File](https://www.figma.com/file/gyd0VdgcAi0zgmU5XZWbh3/XSentimentAnalyzer?type=design&node-id=0%3A1&mode=design&t=KyW1008PTVBav3jA-1)
+These instructions will help you set up a virtual environment and install the required dependencies for this project.
+
+### Prerequisites
+
+- Python (>=3.6) installed on your system.
+- Git (optional, if you plan to clone the repository).
+
+### Setting up a Virtual Environment
+
+It's a good practice to create a virtual environment to manage project dependencies. You can use `venv` or `virtualenv` depending on your preference.
+
+#### Using `venv` (Python 3.3+)
+
+```bash
+python -m venv myenv  # Replace 'myenv' with your preferred environment name
+source myenv/bin/activate  # Use 'activate' on Windows
+```
+```
+pip install virtualenv
+virtualenv myenv  # Replace 'myenv' with your preferred environment name
+source myenv/bin/activate  # Use 'activate' on Windows
+```
+## Installing Dependencies
+Once you have activated your virtual environment, you can install the project dependencies using the requirements.txt file.
+
+```
+pip install -r requirements.txt
+```
+This will install all the required packages for the project.
 
 ## Contributors 
 - [Ashish Meena]()
