@@ -4,6 +4,8 @@
 
 XSentimentAnalyzer is a powerful sentiment analysis and content recommendation system designed to analyze and interpret sentiments expressed in tweets on the "X" platform (formerly known as Twitter).
 
+✅ [SRS Document Here](https://docs.google.com/document/d/13TaRY4D7y3uZtLOph_HiOBwKU12HWh4ieIbCWXZgi8k/edit?usp=sharing)
+
 ## Key Features
 
 - **Sentiment Analysis**: XSentimentAnalyzer utilizes state-of-the-art NLP models to perform in-depth sentiment analysis on tweets, categorizing them as positive, negative, or neutral.
